@@ -74,10 +74,10 @@ nav li {
 nav li a {
     display: block;
     background-color:#ac4c44;
-    color: solid black;
+    color: black;
     height: 40px;
     line-height: 40px;
-    font-size: 1.2 em;
+    font-size: 1.2em;
     text-decoration: none;
 }
 
