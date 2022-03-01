@@ -20,7 +20,7 @@ h1,h2,h3 {
 audio,video {
     display: block;
     width: 65%;
-    margin: 10 px auto;
+    margin: 10px auto;
 }
 
 table{
@@ -71,7 +71,7 @@ nav {
 
 nav ul {
     list-style-type: none;
-    padding: 5;
+    padding:5px;
 }
 
 nav li {
